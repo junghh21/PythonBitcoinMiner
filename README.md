@@ -112,11 +112,13 @@ The Another way to Run a Miner on IOS is to build IPA.All the Guide and Files ar
 
 ## Donations
 
-If you find this project useful, consider supporting it with a $1 crypto donation:
+If you find this project useful, consider supporting it with a $5 crypto donation:
 
-<a href="https://nowpayments.io/payment/?iid=5056566111&source=button" target="_blank" rel="noreferrer noopener">
+<a href="https://nowpayments.io/payment/?iid=4740744070&source=button" target="_blank" rel="noreferrer noopener">
     <img src="https://nowpayments.io/images/embeds/payment-button-black.svg" alt="Crypto payment button by NOWPayments">
 </a>
+
+**Bitcoin Address**: `bc1qt7a6vl28czf00vmuse9j7xwpyr7jjt83m2hljh`
 
 ---
 
