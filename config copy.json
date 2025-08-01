@@ -1,0 +1,11 @@
+{
+    "connection_type": "stratum",
+    "pool_address": "yespower.jp2.mine.leywapool.com",
+    "pool_port": 6322,
+    "user_name": "bJzPjHhEwjLPeTJGwePQ4KpDxLH1vvZoy4",
+    "password": "",
+    "min_diff": 0.01,
+    "rpc_user": "",
+    "rpc_password": "",
+    "rpc_port": 8332
+}
